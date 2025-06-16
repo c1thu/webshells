@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt#%F0%9F%86%93%20Barry-far%20%7C%20ShadowSocks%F0%9F%A5%B7
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabnlHQ3ZRTDF6Nk5HeGJIV1duNXlx@150.95.83.161:6740/?outline=1
